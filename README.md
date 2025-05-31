@@ -5,12 +5,12 @@ This repository contains datasets and lecture slides for the 1-day course "Basic
 - Downloaded manually from this repository, or
 - Loaded directly into Stata using the command below.
 
-Data used during the lectures:
+Data used during the **lecture**:
 ```ruby 
 use "https://raw.githubusercontent.com/robertthiesmeier/summer_school_2025/main/data_birthcohort.dta", clear
 ```
 
-Data used during the practical: 
+Data used during the **practical**: 
 ```ruby
 use "https://raw.githubusercontent.com/robertthiesmeier/summer_school_2025/main/data_tutorial.dta", clear
 ```
